@@ -111,6 +111,13 @@ Para configurar el backend, sigue estos pasos:
    ```bash
    mvn spring-boot:run
    ```
+## Herramientas de Gestión de Proyectos 🛠️
+
+Utilizamos Jira y Confluence para la gestión y documentación de nuestro proyecto.
+
+[![Jira](https://img.shields.io/badge/Jira-Software-blue?style=for-the-badge&logo=jira)](https://luispardo.atlassian.net/jira/software/projects/PUR/boards/5/backlog?epics=visible&atlOrigin=eyJpIjoiNjhhYmU5YWRlZGFlNGM1MGJjZTQxOGE3NGZkM2Q1NTMiLCJwIjoiaiJ9) 
+[![Confluence](https://img.shields.io/badge/Confluence-Documentation-green?style=for-the-badge&logo=confluence)](https://luispardo.atlassian.net/l/cp/6gbA3WyZ)
+
 
 ## Herramientas de Gestión de Proyectos 🛠️
 
